@@ -1,5 +1,5 @@
 defmodule Inmana do
-  alias Inmana.Restaurants.Careate, as: RestaurantCreate
+  alias Inmana.Restaurants.Create, as: RestaurantCreate
   alias Inmana.Supplies.Create, as: SupplyCreate
   alias Inmana.Supplies.Get, as: SupplyGet
 
